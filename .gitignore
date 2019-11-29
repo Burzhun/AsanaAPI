@@ -1,0 +1,15 @@
+!.gitignore
+
+*.pyc
+*.swp
+*.rdb
+*.log
+.DS_Store
+*.ipynb
+
+db.sqlite3
+
+.idea
+
+
+data/
